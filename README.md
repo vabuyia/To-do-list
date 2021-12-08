@@ -10,11 +10,11 @@ Building a To Do list App
 - CSS
 - JavaScript
 
-# Live DEMO
+## Live DEMO
 
 ( https://vabuyia.github.io/To-do-list/)
 
-# Getting Started
+## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
@@ -34,7 +34,7 @@ The app is deployed using GitHub pages. You can view it using the 'live demo' ab
 
 - GitHub: [@vabuyia](https://github.com/vabuyia)
 - Twitter: [@abuyiag](https://twitter.com/abuyiag)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/vincent-abuya-a1940555)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/vincent-abuya)
 
 ## 🤝 Contributing
 
