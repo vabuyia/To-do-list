@@ -18,7 +18,7 @@ Building a To Do list App
 
 To get a local copy up and running follow these simple example steps.
 
-Clone the repo with git clone git@github.com:aliabbani/ToDo-list.git
+Clone the repo with git clone git@github.com:vabuyia/To-do-list
 
 Run npm install from the command line
 
