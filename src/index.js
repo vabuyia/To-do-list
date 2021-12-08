@@ -1,4 +1,5 @@
 // eslint-disable-next-line no-unused-vars
+
 import _ from 'lodash'
 import './style.css'
 
@@ -8,26 +9,31 @@ const tasks = [
     completed: false,
     index: 0,
   },
+
   {
     description: 'Removing a selected item',
     completed: false,
     index: 7,
   },
+
   {
     description: 'Reordering a selected item (as drag-and-drop).',
     completed: false,
     index: 2,
   },
+
   {
     description: 'Marking a selected item as complete.',
     completed: false,
     index: 3,
   },
+
   {
     description: 'Removing all items marked as complete at once.',
     completed: false,
     index: 4,
   },
+
 ]
 
 const orderTasks = () => {
