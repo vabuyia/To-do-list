@@ -75,4 +75,4 @@ for (let i = 0; i < tasks.length; i += 1) {
   document.querySelector('.box').appendChild(listItems);
   listText.innerText = tasks[i].description;
   orderTasks();
-}
+};
