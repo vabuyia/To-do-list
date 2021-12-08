@@ -30,7 +30,7 @@ The app is deployed using GitHub pages. You can view it using the 'live demo' ab
 
 ## Authors
 
-👤 **Vincent Abuya Obunga**
+👤 **Vincent Abuya **
 
 - GitHub: [@vabuyia](https://github.com/vabuyia)
 - Twitter: [@abuyiag](https://twitter.com/abuyiag)
@@ -40,7 +40,7 @@ The app is deployed using GitHub pages. You can view it using the 'live demo' ab
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../../issues/)
 
 ## Show your support
 
