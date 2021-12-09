@@ -10,7 +10,8 @@
     "eslint-config-eslint": "^7.0.0",
     "eslint-plugin-import": "^2.25.3",
     "html-webpack-plugin": "^5.5.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "webpack": "^5.65.0"
   },
   "devDependencies": {},
   "scripts": {
