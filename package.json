@@ -1,0 +1,30 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Building a To Do list App",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-eslint": "^7.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "html-webpack-plugin": "^5.5.0",
+    "lodash": "^4.17.21",
+    "webpack": "^5.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vabuyia/To-do-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vabuyia/To-do-list/issues"
+  },
+  "homepage": "https://github.com/vabuyia/To-do-list#readme"
+}

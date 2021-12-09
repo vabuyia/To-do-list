@@ -10,13 +10,15 @@ Building a To Do list App
 - CSS
 - JavaScript
 
-# Live DEMO
+## Live DEMO
 
-# Getting Started
+( https://vabuyia.github.io/To-do-list)
+
+## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-Clone the repo with git clone git@github.com:aliabbani/ToDo-list.git
+Clone the repo with git clone git@github.com:vabuyia/To-do-list
 
 Run npm install from the command line
 
@@ -28,17 +30,17 @@ The app is deployed using GitHub pages. You can view it using the 'live demo' ab
 
 ## Authors
 
-👤 **Vincent Abuya Obunga**
+👤 **Vincent Abuya **
 
 - GitHub: [@vabuyia](https://github.com/vabuyia)
 - Twitter: [@abuyiag](https://twitter.com/abuyiag)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/vincent-abuya-a1940555)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/vincent-abuya)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../../issues/)
 
 ## Show your support
 
