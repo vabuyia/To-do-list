@@ -12,7 +12,7 @@ Building a To Do list App
 
 ## Live DEMO
 
-( https://vabuyia.github.io/To-do-list/)
+( https://vabuyia.github.io/To-do-list)
 
 ## Getting Started
 
